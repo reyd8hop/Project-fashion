@@ -30,10 +30,10 @@ defineOptions({
                     </span>
                     <div class="space-y-3">
                         <h1 class="text-4xl font-semibold tracking-tight sm:text-5xl">
-                            Create your account
+                            Buat Akun Baru Anda
                         </h1>
                         <p class="text-base leading-7 text-slate-200">
-                            Join our fashion community and get fast access to modern outfit inspiration, curated styles, and exclusive member benefits.
+                            Bergabunglah dengan komunitas mode kami dan dapatkan akses cepat ke inspirasi penampilan modern, gaya yang dirancang, dan manfaat anggota eksklusif.
                         </p>
                     </div>
                 </div>

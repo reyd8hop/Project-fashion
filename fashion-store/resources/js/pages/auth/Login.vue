@@ -42,10 +42,10 @@ const selectedRole = ref<'user' | 'admin'>(props.defaultRole);
                     </span>
                     <div class="space-y-3">
                         <h1 class="text-4xl font-semibold tracking-tight text-white sm:text-5xl">
-                            Hola, Welcome Back
+                            Halo, Selamat Datang Kembali!
                         </h1>
                         <p class="max-w-2xl text-base leading-7 text-slate-200">
-                            Hey, welcome back to your special place. Sign in to continue exploring modern outfits and curated everyday style.
+                            Selamat datang kembali! Masukkan email dan password Anda untuk masuk ke akun Anda dan melanjutkan berbelanja di Fashion Store. Kami senang melihat Anda lagi!
                         </p>
                     </div>
                 </div>
