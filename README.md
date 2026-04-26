@@ -34,7 +34,7 @@ Fashion Store adalah aplikasi e-commerce outfit kekinian yang dibangun menggunak
 
 1. Clone repository:
 
-git clone https://github.com/USERNAME/fashion-store.git
+git clone https://github.com/reyd8hop/fashion-store.git
 cd fashion-store
 
 2. Install dependency:
