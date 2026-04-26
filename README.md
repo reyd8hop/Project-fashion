@@ -63,7 +63,8 @@ npm run dev
 
  Screenshot
 
-Tambahkan screenshot di sini (opsional)
+<img width="1899" height="919" alt="Screenshot (156)" src="https://github.com/user-attachments/assets/b01d20fe-5703-46bf-83ba-91bd7322fa1b" />
+
 
 
  Catatan
