@@ -72,4 +72,6 @@ npm run dev
 - Untuk Admin bisa login menggunakan:
   Email: admin@example.com
   password: password
-- Untuk User bisa register dulu
+- Untuk User bisa login menggunakan:
+  Email: user@example.com
+  password: password
